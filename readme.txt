@@ -1,2 +1,2 @@
 Hello
-This is first line.
+This is sample. 
